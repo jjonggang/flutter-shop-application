@@ -1,16 +1,10 @@
-# accessory_jk_flutter
+# Shop with flutter
 
-A new Flutter project.
+# Home page
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/69239151/147083965-c4c58fb9-8700-4097-bf30-00fbdbca51c1.png">
 
-## Getting Started
+# Search Page
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/69239151/147084062-d6e4de12-56cf-4480-9bf8-167c6838c9ba.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Detail Page
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/69239151/147084209-ea898089-ec06-4545-ad2c-b7da93fe9a05.png">
